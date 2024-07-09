@@ -1,5 +1,5 @@
 This build contains 2 type of MacOS builds -> Intel 64-bit -> Render_MacOS<br>
-                                              Apple silicon-> MacOS
+                                    \t\t\t\t\tApple silicon-> MacOS
 
 If you have problems with opening the app follow the next steps:
 
